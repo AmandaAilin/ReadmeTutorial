@@ -3,7 +3,8 @@
 Neste artigo você aprendera como personalizar o readme do seus projetos no github. Mais o que seria README (ou leia-me)? Bem, é um archivo com extensão .md, 
 ou seja ele é escrito em Markdown Syntax que é  uma sintaxe usada para padronizar e facilitar formatação de texto na web.
 
-<br>
+
+
 ##  Porque é importante? 
 Bem depois de desenvolver seu projeto e subir no  github você vai documentar o projeto para quem for visitar seu repositório saiba do que se trata.
 E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto. 
