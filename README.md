@@ -25,7 +25,8 @@ atrativos até mesmo para recrutadores.
 - Pessoas Desenvolvedoras do Projeto;
 - Licença.
 
-## Título e Imagem de capa
+
+## :pushpin: Título e Imagem de capa
 Você pode colocá-lo dessa maneira:
 
 ```
@@ -40,7 +41,7 @@ Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que f
 >Obs: Feito isso, caso queira, você pode fazer uma capa ou logo do projeto para colocar após o título. 
 <br>
 
-## Badges:
+## :pushpin: Badges:
 Seus objetivos são indicar o estado atual do projeto, licença caso tenha, versões, dependências, testes e entre outros.
 Caso queira fazer suas badges, você pode utilizar o [Shields.io](https://shields.io/), ele fornece na página principal diversos exemplos de Badges e, 
 além disso, nele você pode colar o link do seu repositório do GitHub na caixa de texto inicial, assim automaticamente ele irá sugerir algumas Badges 
@@ -57,7 +58,7 @@ Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dess
 ```
 <br>
 
-## Índice: 
+## :pushpin: Índice: 
 O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos da seção. Para visualizá-lo, selecione o ícone de menu no canto superior 
 esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, pois redireciona o usuário para o tópico selecionado.
 Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown.
@@ -79,11 +80,11 @@ Exemplo:
 ```
 <br>
 
-## Descrição do Projeto:
+## :pushpin: Descrição do Projeto:
 Como é um objetivo do arquivo README descrever o projeto, é legal que você apresente logo após o título ou imagem de capa e/ou Badges caso tenha, uma breve explicação do seu projeto com seu objetivo principal.
 <br>
 
-## Status do Projeto:
+## :pushpin: Status do Projeto:
 Caso você opte por não utilizar Badges sobre o status do projeto, é interessante que você coloque essa informação no próprio texto mesmo. 
 Exemplo:
 
@@ -103,7 +104,7 @@ caso queira centralizar:
 
 <br>
 
-## Funcionalidades e Demonstração da Aplicação:
+## :pushpin: Funcionalidades e Demonstração da Aplicação:
 Você pode listar as funcionalidades do seu projeto para facilitar o entendimento do usuário. 
 
 Para isso, você pode fazer dessa maneira:
@@ -119,7 +120,7 @@ Além disso, se for possível, é interessante apresentar as funcionalidades com
 >Obs: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o Acethinker.
 <br>
 
-## Acesso ao projeto:
+## :pushpin: Acesso ao projeto:
 Caso o seu projeto esteja no ar com algum serviço de hospedagem, você pode disponibilizar o link para o mesmo. Caso contrário, você pode apostar em gifs e imagens, 
 como citado anteriormente, bem como indicar como o usuário pode baixar o projeto, abrir e executar.
 
@@ -133,7 +134,7 @@ Como pode ser feito em Markdown:
 ```
 <br>
 
-## Tecnologias utilizadas:
+## :pushpin: Tecnologias utilizadas:
 Você também pode citar as tecnologias utilizadas no projeto, é uma ótima forma de demonstrar o que você anda estudando nesse mar que é a tecnologia.
 
 ![readme](https://user-images.githubusercontent.com/100203503/167860481-9f2cb8bf-2bc2-4454-a8d7-9c7c26dd5f4a.png)
@@ -146,12 +147,12 @@ Ou colocar o ícone das tecnologias utilizadas:
 
 <br>
 
-## Pessoas Contribuidoras: 
+## :pushpin: Pessoas Contribuidoras: 
 Caso o seu projeto tenha contribuidores, é bacana adicionar eles no README. Um exemplo fantástico disso é o Docusaurus, onde se tem as fotos de todos
 os contribuidores e um link para outro documento markdown com recados importantes para quem deseja contribuir também.
 <br>
 
-## Pessoas Desenvolvedoras do Projeto:
+## :pushpin: Pessoas Desenvolvedoras do Projeto:
 E agora entra você! É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub ou fazer seu próprio Octocat. Além disso,
 você pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
 
@@ -163,7 +164,7 @@ você pode linkar seu usuário, para caso algum usuário queira entrar em contat
 
 <br>
 
-## Licença:
+## :pushpin: Licença:
 Geralmente, os repositórios públicos no GitHub são utilizados para compartilhar softwares de código aberto. Porém, para que um repositório seja realmente de código 
 aberto, ele precisa obter uma licença para que outros tenham a liberdade de usar, alterar e distribuir o software.
 Portanto, caso seu repositório tenha uma licença, é essencial que você coloque ela no seu README. 
@@ -172,7 +173,7 @@ Portanto, caso seu repositório tenha uma licença, é essencial que você coloq
 
 <br>
 
-## Documentação e informação extra:
+## :pencil: Documentação e informação extra:
 - https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409
 - https://github.com/othneildrew/Best-README-Template
 - https://www.alura.com.br/artigos/escrever-bom-readme
