@@ -1,6 +1,7 @@
 <h1 align="center"> Como criar e personalizar o Readme do seus projetos </h1>
 
-Neste artigo você aprendera como personalizar o readme do seus projetos no github. Mais o que seria README (ou leia-me)? Bem, é um archivo com extensão .md, 
+Neste artigo você aprendera como personalizar o readme do seus projetos no github. <br>
+Mais o que seria README (ou leia-me)? Bem, é um archivo com extensão .md, 
 ou seja ele é escrito em Markdown Syntax que é  uma sintaxe usada para padronizar e facilitar formatação de texto na web.
 
 
