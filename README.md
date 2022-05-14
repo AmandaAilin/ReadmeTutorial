@@ -1,15 +1,15 @@
 <h1 align="center"> Como criar e personalizar o Readme do seus projetos </h1>
 
-Neste artigo você aprendera como personalizar o readme do seus projetos no github. <br>
+:wink: Neste artigo você aprendera como personalizar o readme do seus projetos no github. <br>
+
 Mais o que seria README (ou leia-me)? Bem, é um archivo com extensão .md, 
 ou seja ele é escrito em Markdown Syntax que é  uma sintaxe usada para padronizar e facilitar formatação de texto na web.
 
 
-
-##  Porque é importante? 
+##  :bulb: Porque é importante? 
 Bem depois de desenvolver seu projeto e subir no  github você vai documentar o projeto para quem for visitar seu repositório saiba do que se trata.
 E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto. 
-- Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais 
+- :rocket: Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais 
 atrativos até mesmo para recrutadores.
 <br>
 
