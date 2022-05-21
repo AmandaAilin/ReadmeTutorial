@@ -117,7 +117,7 @@ Para isso, você pode fazer dessa maneira:
 ```
 
 Além disso, se for possível, é interessante apresentar as funcionalidades com um exemplo visual do projeto, como gif, imagens ou vídeo.
->Obs.: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o Acethinker.
+>Obs.: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o [Acethinker](https://www.acethinker.com/).
 <br>
 
 ## :pushpin: Acesso ao projeto:
