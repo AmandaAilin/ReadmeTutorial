@@ -29,13 +29,13 @@ E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto,
 ## :pushpin: Título e Imagem de capa:
 Você pode colocá-lo dessa maneira:
 
-```
+```Markdown
 # Título 
 ```
 <br>
 Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que funcionam normalmente, dessa forma:
 
-```
+```HTML
 <h1 align="center"> Seu título aqui </h1>
 ```
 >Obs: Feito isso, caso queira, você pode fazer uma capa ou logo do projeto para colocar após o título. 
@@ -53,7 +53,7 @@ Exemplo:
 
 Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dessa forma:
 
-```
+```HTML
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 ```
 <br>
@@ -64,7 +64,7 @@ esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, po
 Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown.
 Exemplo:
 
-```
+```Markdown
 ## Índice 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
@@ -88,13 +88,13 @@ Como é um objetivo do arquivo README descrever o projeto, é legal que você ap
 Caso você opte por não utilizar Badges sobre o status do projeto, é interessante que você coloque essa informação no próprio texto mesmo. 
 Exemplo:
 
-```
+```Markdown
 > :construction: Projeto em construção :construction:
 ```
 
 Caso queira centralizar:
 
-```
+```HTML
 <h4 align="center">    
  :construction:  Projeto em construção  :construction:
 </h4>
@@ -108,7 +108,7 @@ Caso queira centralizar:
 Você pode listar as funcionalidades do seu projeto para facilitar o entendimento do usuário. 
 
 Para isso, você pode fazer dessa maneira:
-```
+```Markdown
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
@@ -126,7 +126,7 @@ como citado anteriormente, bem como indicar como o usuário pode baixar o projet
 
 Isso pode ser feito em Markdown:
 
-```
+```Markdown
 ## 📁 Acesso ao projeto
 **Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
 ## 🛠️ Abrir e rodar o projeto
@@ -156,7 +156,7 @@ os contribuidores e um link para outro documento markdown com recados importante
 E agora entra você! É importante que você coloque sua foto também, caso não goste de fotos, vale o user padrão do GitHub ou fazer seu próprio Octocat. Além disso,
 você pode linkar seu usuário, para caso algum usuário queira entrar em contato ou reportar algo.
 
-```
+```HTML
 # Autores
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
