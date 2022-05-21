@@ -1,19 +1,18 @@
-<h1 align="center"> Como criar e personalizar o Readme do seus projetos </h1>
+<h1 align="center"> Como criar e personalizar o Readme dos seus projetos </h1>
 
-:wink: Neste artigo você aprendera como personalizar o readme do seus projetos no github. <br>
+:wink: Neste artigo você aprenderá como personalizar o readme dos seus projetos no github. <br>
 
-Mais o que seria README (ou leia-me)? Bem, é um archivo com extensão .md, 
-ou seja ele é escrito em Markdown Syntax que é  uma sintaxe usada para padronizar e facilitar formatação de texto na web.
+Mais o que seria README (ou leia-me)? Bem, é um arquivo com extensão .md, 
+ou seja ele é escrito em Markdown Syntax que é uma sintaxe usada para padronizar e facilitar a formatação de texto na web.
 
 
 ##  :bulb: Porque é importante? 
-Bem depois de desenvolver seu projeto e subir no  github você vai documentar o projeto para quem for visitar seu repositório saiba do que se trata.
-E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto. 
-- :rocket: Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais 
-atrativos até mesmo para recrutadores.
+Bem, depois de desenvolver seu projeto e subir no  github você vai documentar o seu trabalho para que quem visite seu repositório saiba do que se trata.
+E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto! 
+- :rocket: Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais atrativos até mesmo para recrutadores.
 <br>
 
-## Alguns exemplos do que ter no readme
+## Alguns exemplos do que ter no README
 - Título e Imagem de capa;
 - Badges;
 - Índice;
@@ -27,11 +26,11 @@ atrativos até mesmo para recrutadores.
 - Licença.
 
 
-## :pushpin: Título e Imagem de capa
+## :pushpin: Título e Imagem de capa:
 Você pode colocá-lo dessa maneira:
 
 ```
-# titulo 
+# Título 
 ```
 <br>
 Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que funcionam normalmente, dessa forma:
@@ -43,7 +42,7 @@ Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que f
 <br>
 
 ## :pushpin: Badges:
-Seus objetivos são indicar o estado atual do projeto, licença caso tenha, versões, dependências, testes e entre outros.
+Seus objetivos são indicar o estado atual do projeto, licença (caso tenha), versões, dependências, testes, dentre outros.
 Caso queira fazer suas badges, você pode utilizar o [Shields.io](https://shields.io/), ele fornece na página principal diversos exemplos de Badges e, 
 além disso, nele você pode colar o link do seu repositório do GitHub na caixa de texto inicial, assim automaticamente ele irá sugerir algumas Badges 
 para você utilizar no seu projeto, fornecendo o link da Badge para copiar e colar no seu README.
@@ -60,7 +59,7 @@ Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dess
 <br>
 
 ## :pushpin: Índice: 
-O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos da seção. Para visualizá-lo, selecione o ícone de menu no canto superior 
+O GitHub gera automaticamente um índice para arquivos README, tendo como base os títulos de seção. Para visualizá-lo, selecione o ícone de menu no canto superior 
 esquerdo do arquivo. É uma ferramenta excelente para navegar pelo documento, pois redireciona o usuário para o tópico selecionado.
 Entretanto, caso você tenha interesse em fazer seu próprio índice para ser visualizado no arquivo, também é possível fazer em Markdown.
 Exemplo:
@@ -93,7 +92,7 @@ Exemplo:
 > :construction: Projeto em construção :construction:
 ```
 
-caso queira centralizar:
+Caso queira centralizar:
 
 ```
 <h4 align="center">    
@@ -118,14 +117,14 @@ Para isso, você pode fazer dessa maneira:
 ```
 
 Além disso, se for possível, é interessante apresentar as funcionalidades com um exemplo visual do projeto, como gif, imagens ou vídeo.
->Obs: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o Acethinker.
+>Obs.: Lembrando que o procedimento para colocar gif é o mesmo adotado para imagens e você pode gravar gifs com gravadores de tela, como o Acethinker.
 <br>
 
 ## :pushpin: Acesso ao projeto:
 Caso o seu projeto esteja no ar com algum serviço de hospedagem, você pode disponibilizar o link para o mesmo. Caso contrário, você pode apostar em gifs e imagens, 
 como citado anteriormente, bem como indicar como o usuário pode baixar o projeto, abrir e executar.
 
-Como pode ser feito em Markdown:
+Isso pode ser feito em Markdown:
 
 ```
 ## 📁 Acesso ao projeto
@@ -142,7 +141,7 @@ Você também pode citar as tecnologias utilizadas no projeto, é uma ótima for
 
 <br>
 
-Ou colocar o ícone das tecnologias utilizadas: 
+Ou colocar os ícones das tecnologias utilizadas: 
 
 ![docmreadme PNG](https://user-images.githubusercontent.com/100203503/167860788-72093b39-19bd-40f7-991b-6ef9188128cf.png)
 
@@ -167,7 +166,7 @@ você pode linkar seu usuário, para caso algum usuário queira entrar em contat
 
 ## :pushpin: Licença:
 Geralmente, os repositórios públicos no GitHub são utilizados para compartilhar softwares de código aberto. Porém, para que um repositório seja realmente de código 
-aberto, ele precisa obter uma licença para que outros tenham a liberdade de usar, alterar e distribuir o software.
+aberto, ele precisa ter uma licença dando aos outros usuários a liberdade de usar, alterar e distribuir o software.
 Portanto, caso seu repositório tenha uma licença, é essencial que você coloque ela no seu README. 
 
 ![licenciareadme](https://user-images.githubusercontent.com/100203503/167861625-7edfe705-2ee2-456d-9744-de94dcc59941.png)
