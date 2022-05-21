@@ -49,7 +49,7 @@ para você utilizar no seu projeto, fornecendo o link da Badge para copiar e col
 
 Exemplo: 
 
-1) Status do projeto:
+![status](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dessa forma:
 
