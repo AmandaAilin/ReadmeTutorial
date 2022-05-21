@@ -100,7 +100,7 @@ Caso queira centralizar:
 </h4>
 ```
 
->Nesse exemplo foi utilizado o emoji :construction:, mas você pode utilizar em qualquer lugar do arquivo, como antes dos subtítulos. Nesse Gist do Rafael Xavier de Souza, você pode encontrar uma variedade de emojis para utilizar no seu README e deixá-lo mais descontraído.
+>Nesse exemplo foi utilizado o emoji :construction:, mas você pode utilizar em qualquer lugar do arquivo, como antes dos subtítulos. Nesse [Gist do Rafael Xavier de Souza](https://gist.github.com/rxaviers/7360908), você pode encontrar uma variedade de emojis para utilizar no seu README e deixá-lo mais descontraído.
 
 <br>
 
