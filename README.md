@@ -183,7 +183,7 @@ Portanto, caso seu repositório tenha uma licença, é essencial que você coloq
 
 Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https://readmecreator.herokuapp.com/), site simples que reúne alguns recursos úteis para criação de READMEs de projetos, assim como para perfis. Após preencher os campos adequados e explorar os recursos, ele gerará um README no formato HTML/MD que você poderá continuar editando e adaptando.
 
-### Recursos extra
+### Ferramentas extra
 - https://readme.so/pt
 - https://www.readme-templates.com/
 - https://github.com/Ileriayo/markdown-badges
